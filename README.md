@@ -12,7 +12,7 @@ Furthermore, I hope that you will use it as an inspiration or even a starting po
 
 1. Checkout the Git repository
     ```bash
-    git clone https://github.com/hoppsen/macos-setup.git ~/.macos-setup
+    git clone https://github.com/pf-hoppsen/macos-setup.git ~/.macos-setup
     ```
 2. Navigate to the folder and run `setup.sh`
     ```bash
