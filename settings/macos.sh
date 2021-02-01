@@ -136,6 +136,8 @@ for app in 'file:///System/Applications/Launchpad.app/' \
             'file:///Applications/Safari.app/' \
             'file:///System/Applications/Messages.app/' \
             'file:///Applications/WhatsApp.app/' \
+            'file:///Applications/Slack.app/' \
+            'file:///Applications/zoom.us.app/' \
             'file:///System/Applications/Notes.app/' \
             'file:///System/Applications/Reminders.app/' \
             'file:///System/Applications/Mail.app/' \
