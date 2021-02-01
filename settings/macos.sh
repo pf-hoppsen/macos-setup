@@ -148,9 +148,6 @@ for app in 'file:///System/Applications/Launchpad.app/' \
             'file:///Applications/Visual%20Studio%20Code.app/' \
             'file:///Applications/Sublime%20Merge.app/' \
             'file:///System/Applications/Home.app/' \
-            'file:///Applications/Affinity%20Photo.app/' \
-            'file:///Applications/Affinity%20Designer.app/' \
-            'file:///Applications/Affinity%20Publisher.app/' \
             'file:///Applications/Spotify.app/' \
             'file:///System/Applications/System%20Preferences.app/' \
             'file:///Applications/iTerm.app/'
